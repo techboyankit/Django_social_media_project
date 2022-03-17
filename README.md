@@ -1,4 +1,4 @@
-# It is a social media website made by me, ANKIT.
+# It is a social media website made by me.
 
 # Here I have implemented the following ideas:-
 
